@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.container{
+	padding:3rem;
+}
+header .navbar .navbar-brand{
+	color:#e2e21d;
+}
+header .navbar .navbar-brand:hover{
+	color:black;
+	text-shadow:1px 1px 2px gold;
+}
+header .navbar{
+	background-color:green;
+}
